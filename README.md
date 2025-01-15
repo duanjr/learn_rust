@@ -1,0 +1,1 @@
+This reposity is used to record the process of learning rust, which is the working language of my [graduation project](https://github.com/duanjr/GraduationProject).
